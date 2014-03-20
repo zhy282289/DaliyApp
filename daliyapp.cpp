@@ -10,6 +10,7 @@ DaliyApp::DaliyApp(QWidget *parent, Qt::WFlags flags)
 {
 	setWindowTitle("Jetsen ÈÕÖ¾");
 
+
 	m_fileMenu = menuBar()->addMenu(tr("&File"));
 	m_actNew = m_fileMenu->addAction("New");
 	m_actRemove = m_fileMenu->addAction("Remove");
