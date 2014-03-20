@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="DaliyApp">
+      <file>Resources/new.png</file>
+      <file>Resources/delete.png</file>
+      <file>Resources/exit.png</file>
+    </qresource>
+</RCC>
